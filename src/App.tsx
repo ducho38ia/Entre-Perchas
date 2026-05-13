@@ -150,7 +150,7 @@ export default function App() {
   const [saved, setSaved] = useState(false);
   const [deleting, setDeleting] = useState(null);
   const fileRef = useRef();
-  const PASS = "admin123";
+  const PASS = "Octi2023";
 
   useEffect(() => {
     (async () => {
